@@ -4,7 +4,6 @@ A real-time facial recognition access control system. This repository houses the
 
 ## Project Structure
 
-` ` `text
 Face-Access-System/
 ├── ml/
 │   └── detection/
@@ -14,7 +13,6 @@ Face-Access-System/
 │       ├── benchmark.py           # Execution speed performance tester
 │       └── benchmark_results.md   # Performance metrics (MTCNN vs RetinaFace)
 └── README.md                      # Project documentation
-` ` `
 
 ## 1: Face Detection Pipeline
 
