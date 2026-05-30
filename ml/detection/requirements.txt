@@ -1,0 +1,6 @@
+opencv-python
+facenet-pytorch
+numpy
+pillow
+insightface
+onnxruntime
